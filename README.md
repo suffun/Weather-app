@@ -33,3 +33,18 @@ It allows users to search for a city and view the current weather conditions in 
 
 
 
+---
+
+## ⚙️ How It Works
+
+1. User enters a **city name**
+2. App sends a request to the **Weather API**
+3. API returns weather data in JSON format
+4. JavaScript extracts:
+   - City name
+   - Temperature
+   - Weather condition
+5. Data is displayed dynamically on the UI
+
+
+
