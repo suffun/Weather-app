@@ -32,9 +32,6 @@ It allows users to search for a city and view the current weather conditions in 
 ---
 
 
-
----
-
 ## ⚙️ How It Works
 
 1. User enters a **city name**
